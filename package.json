@@ -172,7 +172,7 @@
         "http://www.w3.org/TR/REC-DOM-Level-1"
     ],
     "dependencies": {
-       "htmlparser" : "1.x",
+       "htmlparser" : "git://github.com/petrbela/node-htmlparser.git",
        "request"    : "2.x",
        "cssom"      : "0.2.x",
        "contextify" : "0.1.x"
